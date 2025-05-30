@@ -1,0 +1,7 @@
+🔍 Line Item Validation:
+✅ All line items verified.
+
+📦 Subtotal Check:
+Subtotal: ₹34914.520000000004, Discount: ₹0.0, GST: ₹0.0
+Expected Final Total: ₹34914.52, Extracted Final Total: ₹0.0
+❌ Final total calculation mismatch.

@@ -1,0 +1,8 @@
+✅ All line items verified.
+
+Subtotal: ₹34914.52
+Discount: ₹0.0
+GST: ₹0.0
+Expected Final Total: ₹34914.52
+Actual Final Total: ₹0.0
+Final total match: No

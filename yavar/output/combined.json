@@ -1,0 +1,51 @@
+{
+  "general_info": {
+    "invoice_number": "654654",
+    "invoice_date": "08-03-2021",
+    "supplier_gst_number": "898989898989",
+    "bill_to_gst_number": "6969696969696969",
+    "po_number": null,
+    "shipping_address": "Nazim Khan\nSector-200, Noida, U.P.\nUttar Pradesh"
+  },
+  "seal_and_sign_present": false,
+  "seal_image": null,
+  "line_items": [
+    {
+      "serial_number": 1,
+      "description": "ITEM NAME 2",
+      "hsn_sac": 2541,
+      "quantity": "26",
+      "unit_price": 235.52,
+      "total_amount": 6123.52
+    },
+    {
+      "serial_number": 2,
+      "description": "ITEM NAME 3",
+      "hsn_sac": "4944",
+      "quantity": "2",
+      "unit_price": 658.0,
+      "total_amount": 1316.0
+    },
+    {
+      "serial_number": 3,
+      "description": "ITEM NAME 4",
+      "hsn_sac": "2546",
+      "quantity": "50",
+      "unit_price": 485.0,
+      "total_amount": 24250.0
+    },
+    {
+      "serial_number": 4,
+      "description": "ITEM NAME 5",
+      "hsn_sac": "8151",
+      "quantity": "15",
+      "unit_price": 215.0,
+      "total_amount": 3225.0
+    }
+  ],
+  "tax_info": {
+    "discount_percent": null,
+    "sgst_percent": 9,
+    "cgst_percent": 9
+  }
+}

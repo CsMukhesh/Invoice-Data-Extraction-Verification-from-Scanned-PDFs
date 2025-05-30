@@ -1,0 +1,7 @@
+pytesseract
+pdf2image
+pillow
+opencv-python
+pandas
+word2number
+openpyxl
